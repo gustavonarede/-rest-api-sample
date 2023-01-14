@@ -1,4 +1,4 @@
-package br.com.springboot._rest_api_sample;
+ package br.com.springboot.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

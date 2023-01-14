@@ -1,4 +1,4 @@
-package br.com.springboot._rest_api_sample.requests;
+package br.com.springboot.api.controllers;
 
 import com.hackerrank.test.utility.Order;
 import com.hackerrank.test.utility.OrderedTestRunner;
